@@ -10,8 +10,8 @@ a {
 }
 
 h1 {
-	font-size: 90px;
-	color: #ff9933;
+	font-size: 100px;
+	color: #01DFD7;
 	margin: 0;
 	line-height: 1;
 	padding: 0;
@@ -30,8 +30,8 @@ h1 {
 	font-size: 22px;
 }
 
-.orange {
-	color: #ff9933;
+.blue {
+	color: #01DFD7;
 	font-weight: bold;
 	font-size: 36px;
 }
